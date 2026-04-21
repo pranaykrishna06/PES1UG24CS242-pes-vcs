@@ -1,6 +1,7 @@
 // Phase 1: start object implementation
 // Phase 1: SHA-256 hashing added
 // Phase 1: object storage and deduplication
+// Phase 1: final fixes for object read/write
 #include "pes.h"
 #include <stdio.h>
 #include <stdlib.h>
