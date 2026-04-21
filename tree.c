@@ -3,6 +3,7 @@
 // Phase 2: load index for tree construction
 // Phase 2: format tree entries with mode, type, hash, path
 // Phase 2: write tree object to storage
+// Phase 2: final fixes for tree generation
 // PROVIDED functions: get_file_mode, tree_parse, tree_serialize
 // TODO functions:     tree_from_index
 //
