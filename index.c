@@ -1,4 +1,5 @@
 // index.c — Staging area implementation
+// Phase 3: final fixes for index handling
 //// Phase 3: start index (staging area) implementation
 // Text format of .pes/index (one entry per line, sorted by path):
 //
