@@ -1,6 +1,7 @@
 // commit.c — Commit creation and history traversal
 //// Phase 4: start commit implementation
 // Phase 4: handle parent commit (HEAD)
+// Phase 4: final fixes for commit creation
 // Phase 4: serialize commit object
 
 // Commit object format (stored as text, one field per line):
