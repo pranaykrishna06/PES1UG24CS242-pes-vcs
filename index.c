@@ -218,6 +218,7 @@ int index_save(const Index *index) {
 //
 // Returns 0 on success, -1 on error.
 // Add file
+// Phase 3: add file to staging area and create blob
 int index_add(Index *index, const char *path) {
 
     struct stat st;
