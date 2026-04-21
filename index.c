@@ -179,6 +179,7 @@ int index_load(Index *index) {
 //
 // Returns 0 on success, -1 on error.
 // Save index
+// Phase 3: save index using atomic write
 int index_save(const Index *index) {
 
     FILE *f = fopen(".pes/index.tmp", "w");
