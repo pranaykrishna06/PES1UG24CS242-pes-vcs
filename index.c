@@ -136,7 +136,7 @@ int index_status(const Index *index) {
 // Returns 0 on success, -1 on error.
 
 
-
+// Phase 3: load index from .pes/index file
 // Load index
 int index_load(Index *index) {
     FILE *f = fopen(".pes/index", "r");
