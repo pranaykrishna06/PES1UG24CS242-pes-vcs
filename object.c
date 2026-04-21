@@ -1,5 +1,5 @@
 // Phase 1: start object implementation
-
+// Phase 1: SHA-256 hashing added
 #include "pes.h"
 #include <stdio.h>
 #include <stdlib.h>
